@@ -39,3 +39,5 @@ Light Table is the next generation code editor. Light Table Connects you to your
 [nano](http://www.nano-editor.org/) GNU Nano - GNU nano aims to emulate Pico and perhaps provide extra functionality. 
 
 [pico](http://www.cs.colostate.edu/helpdocs/pico.html) Pico is a text editor for Unix and Unix-based computer systems. It is integrated with the Pine e-mail client, which was designed by the Office of Computing and Communications at the University of Washington.
+
+[ed](http://man.cat-v.org/unix-1st/1/ed) ed is the standard text editor. -1971  `;)`
