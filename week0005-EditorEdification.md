@@ -33,3 +33,5 @@ Light Table is the next generation code editor. Light Table Connects you to your
 * [WebStorm - JS/HTML/CSS](https://www.jetbrains.com/webstorm)
 * [AppCode - Objective-C](https://www.jetbrains.com/objc)
 * [CLion - C/C++](https://www.jetbrains.com/clion)
+
+[Joe's Own Editor](http://joe-editor.sourceforge.net/) Like EMACS + WordStar
