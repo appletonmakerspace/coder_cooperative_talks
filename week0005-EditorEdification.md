@@ -8,6 +8,8 @@ Sublime Text is a sophisticated text editor for code, markup and prose. You'll l
 [Notepad++](https://notepad-plus-plus.org/) : 
 Notepad++: a free source code editor which supports several programming languages running under the MS Windows environment.
 
+[gedit](http://www.gedit.org) : Gnome text editor. A very basic text editor that comes with most modern Linux distros.
+
 [Atom](https://atom.io/) : 
 A hackable text editor for the 21st Century
 At GitHub, we’re building the text editor we’ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can’t wait to see what you build with it. (32KB)
