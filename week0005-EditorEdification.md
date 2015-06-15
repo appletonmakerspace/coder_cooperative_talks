@@ -20,3 +20,5 @@ At GitHub, we’re building the text editor we’ve always wanted: hackable to t
 Light Table is the next generation code editor. Light Table Connects you to your creation with instant feedback and showing data values flow through your code.
 
 [Visual Studio Code](https://code.visualstudio.com/Docs/whyvscode) :  A lightweight cross-platform code editor for writing modern web and cloud applications that runs on OS X, Linux and Windows. (lightweight editor in the same vein as Sublime/Atom. Full IntelliSense support!)
+
+[Brackets](http://brackets.io/) : With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. (blurb from the website)
