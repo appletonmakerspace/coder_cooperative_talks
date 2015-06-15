@@ -16,5 +16,5 @@ At GitHub, we’re building the text editor we’ve always wanted: hackable to t
 
 [EMACS](http://www.gnu.org/software/emacs/) : The other combatant in the Vim vs. Emacs flamewar.
 
-[LightTable](http://lighttable.com/)
+[LightTable](http://lighttable.com/) :
 Light Table is the next generation code editor. Light Table Connects you to your creation with instant feedback and showing data values flow through your code.
