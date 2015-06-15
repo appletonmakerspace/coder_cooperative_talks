@@ -22,3 +22,12 @@ Light Table is the next generation code editor. Light Table Connects you to your
 [Visual Studio Code](https://code.visualstudio.com/Docs/whyvscode) :  A lightweight cross-platform code editor for writing modern web and cloud applications that runs on OS X, Linux and Windows. (lightweight editor in the same vein as Sublime/Atom. Full IntelliSense support!)
 
 [Brackets](http://brackets.io/) : With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser. (blurb from the website)
+
+[JetBrains](https://www.jetbrains.com/) A commercial per-language family of IDE's based on the success of IntelliJ IDEA(Java). Editors include:
+* [InteliJ IDEA - Java](https://www.jetbrains.com/idea)
+* [PHPStorm - PHP](https://www.jetbrains.com/phpstorm)
+* [PyCharm - Python](https://www.jetbrains.com/pycharm)
+* [RubyMine - Ruby](https://www.jetbrains.com/ruby)
+* [WebStorm - JS/HTML/CSS](https://www.jetbrains.com/webstorm)
+* [AppCode - Objective-C](https://www.jetbrains.com/objc)
+* [CLion - C/C++](https://www.jetbrains.com/clion)
