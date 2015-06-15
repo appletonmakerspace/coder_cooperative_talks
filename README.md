@@ -1,1 +1,1 @@
-[Weekly talks (a wiki)](https://github.com/appletonmakerspace/coder_cooperative_talks/wiki)
+Open an Issue at right (the circle with the exclamation point) in order to be added to this repo.
