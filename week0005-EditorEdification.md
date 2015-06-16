@@ -41,3 +41,5 @@ Light Table is the next generation code editor. Light Table Connects you to your
 [pico](http://www.cs.colostate.edu/helpdocs/pico.html) Pico is a text editor for Unix and Unix-based computer systems. It is integrated with the Pine e-mail client, which was designed by the Office of Computing and Communications at the University of Washington.
 
 [ed](http://man.cat-v.org/unix-1st/1/ed) ed is the standard text editor. -1971  `;)`
+
+[Aptana](http://www.aptana.com/) An Eclise-alike for web stuff.
