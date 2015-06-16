@@ -42,4 +42,4 @@ Light Table is the next generation code editor. Light Table Connects you to your
 
 [ed](http://man.cat-v.org/unix-1st/1/ed) ed is the standard text editor. -1971  `;)`
 
-[Aptana](http://www.aptana.com/) An Eclise-alike for web stuff.
+[Aptana](http://www.aptana.com/) An Eclipse-alike for web stuff.
