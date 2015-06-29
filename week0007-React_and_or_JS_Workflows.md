@@ -1,1 +1,3 @@
-week0007-React_and_or_JS_Workflows
+##Week 0007 "React and/or Modern JS Workflows"
+
+< edit me! >
