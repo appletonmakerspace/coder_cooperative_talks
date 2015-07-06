@@ -11,9 +11,10 @@ To recap:
 1. Implement one or more of the below traits.
 1. Show us what you did!
 
---
+---
 
 Programming language traits
+
 1. Produce output (echo, print, etc)
 1. Accept user input
 1. Use loops/iteration (for, while, until, etc)
@@ -26,13 +27,13 @@ Programming language traits
 1. Make a network call
 1. Use a database
 
---
+---
 
 Possibly useful resources:
 
-https://www.google.com/
-https://github.com
-https://en.wikipedia.org/wiki/List_of_Hello_world_program_examples
-http://helloworldcollection.de/
-https://en.wikipedia.org/wiki/List_of_programming_languages
-https://goo.gl/r9eVVp - Coder Cooperative theme/topic wall
+- https://www.google.com/
+- https://github.com
+- https://en.wikipedia.org/wiki/List_of_Hello_world_program_examples
+- http://helloworldcollection.de/
+- https://en.wikipedia.org/wiki/List_of_programming_languages
+- https://goo.gl/r9eVVp - Coder Cooperative theme/topic wall
