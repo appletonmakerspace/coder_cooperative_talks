@@ -9,3 +9,6 @@ Operating systems like Linux, Mac OSX and MS Windows have always provided a way 
 We'll use this web site as a point of reference: [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
 In addition we can cover ways to self-help and places to read for enlightenment.
+
+###More resources
+- [Ops School](http://www.opsschool.org/en/latest/)
