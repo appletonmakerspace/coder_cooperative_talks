@@ -1,5 +1,7 @@
 **What other coderish topics are on our minds?**
 
+Check out this [sweet topic theme/wall spreadsheet](https://docs.google.com/spreadsheets/d/1j24u_0kdBxxX_sCi2Rl-9sQTBsbh0GfM8vxMD81nECY/edit#gid=0), and add your interests!
+
 @mikeputnam could give short talks on:
 + Google App Engine
 + Amazon Web Services
