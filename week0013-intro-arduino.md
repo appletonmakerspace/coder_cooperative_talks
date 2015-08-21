@@ -23,3 +23,5 @@ I'll have 2 Arduino on hand to try out, hoping to get volunteers to lend more.
 Resources:
 * Arduino - https://www.arduino.cc/
 * Arduino IDE - https://www.arduino.cc/en/Main/Software
+* Lady Ada Arduino Tutorial - http://www.ladyada.net/learn/arduino/
+* Great intro video (10 mins) / software portion starts at minute 6:40 - https://www.youtube.com/watch?v=5F054MNB1QI
