@@ -1,4 +1,5 @@
-##Week 0012 "A hobbyist intro to native Android development"
+# Week 0012 "A hobbyist intro to native Android development"
+**2015-08-17**
 
 This week I'll cover getting started with Android development.
 

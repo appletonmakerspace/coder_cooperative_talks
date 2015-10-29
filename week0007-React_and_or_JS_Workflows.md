@@ -1,6 +1,7 @@
-##Week 0007 "React and/or Modern JS Workflows"
+# Week 0007 "React and/or Modern JS Workflows"
+**2015-07-13**
 
-###[React](http://facebook.github.io/react/)
+### [React](http://facebook.github.io/react/)
 
 [css-modules](https://github.com/css-modules)
 
@@ -20,7 +21,7 @@
 
 [material-ui](http://material-ui.com/)
 
-###npm tooling
+### npm tooling
 
 [Task automation with npm run](http://substack.net/task_automation_with_npm_run)
 

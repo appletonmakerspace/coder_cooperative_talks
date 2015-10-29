@@ -1,4 +1,5 @@
-##Week 0011 "Timecube^H^H^H^Hzones"
+# Week 0011 "Timecube^H^H^H^Hzones"
+**2015-08-10**
 
 Timezones and daylight saving time.
 
@@ -30,4 +31,3 @@ Bash:
 
 Powershell:
 * http://blogs.technet.com/b/heyscriptingguy/archive/2015/01/07/use-powershell-desired-state-configuration-to-set-time-zone.aspx
-

@@ -1,4 +1,5 @@
-##Week 0018 "Cloud Providers"
+# Week 0018 "Cloud Providers"
+**2015-09-28**
 
 This week let's discuss the various "cloud providers" of the day.
 

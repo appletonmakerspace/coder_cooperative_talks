@@ -1,4 +1,5 @@
-##Week 0015 "Open Topic"
+# Week 0015 "Open Topic"
+**2015-09-07**
 
 With the Labor Day holiday, let's just have an open session; any topic is fair game.
 

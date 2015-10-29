@@ -1,4 +1,5 @@
-##Week 0014 "Pick a project"
+# Week 0014 "Pick a project"
+**2015-08-31**
 
 Hi everyone!
 

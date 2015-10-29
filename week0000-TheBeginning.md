@@ -1,4 +1,5 @@
-2015-05-11
+# The Beginning
+**2015-05-11**
 
 [Week 0000 - "The beginning"](https://docs.google.com/presentation/d/1IiHuYp54Ft2G5-Ul5xogkzO1aAbexycG2rj2BK-xRTA)
 
