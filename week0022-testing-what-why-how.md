@@ -12,3 +12,9 @@ Let's share any testing experience we have or questions we want to ask.
 
 ![testing](http://accessibility.hhs.texas.gov/docs/training/images/design.png)
 
+### Talk Resources
+
+* [Cucumber](https://cucumber.io) -- Multi-language testing platform that uses a plain-english-like language called [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin)
+* [Selenium](http://www.seleniumhq.org) -- Programatically test your web app from the user's perspective, supports many browsers.
+* [Travis-CI](https://travis-ci.org) -- Hosted continuous integration, free for open source projects.
+* [Jenkins](https://jenkins-ci.org) -- Java based continuous integration, host it yourself.
