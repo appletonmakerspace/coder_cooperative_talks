@@ -1,4 +1,5 @@
-##Week 0010 "(ir)Regular Expressions"
+# Week 0010 "(ir)Regular Expressions"
+**2015-08-03**
 
 Regular expressions are a text search and manipulation tool. Highly useful, highly cryptic.
 

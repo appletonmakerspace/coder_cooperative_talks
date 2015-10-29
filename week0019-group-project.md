@@ -1,4 +1,5 @@
-##Week 0019 "Group Project"
+# Week 0019 "Group Project"
+**2015-10-05**
 
 I'll have the doors open and the hardware setup for the https://github.com/appletonmakerspace/info_display
 

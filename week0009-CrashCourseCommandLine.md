@@ -1,4 +1,5 @@
-##Week 0009 "Crash Course in Command Line"
+# Week 0009 "Crash Course in Command Line"
+**2015-07-27**
 
 This week let's do a command line primer.
 

@@ -1,6 +1,7 @@
-##Week 0013 "Coders intro to Arduino"
+# Week 0013 "Coders intro to Arduino"
+**2015-08-24**
 
-This week lets cover getting started with Arduino. 
+This week lets cover getting started with Arduino.
 
 What's Arduino? "Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects." -- https://www.arduino.cc/
 

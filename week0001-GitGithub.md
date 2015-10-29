@@ -1,4 +1,5 @@
-2015-05-18
+# Git and Github
+**2015-05-18**
 
 [Week 0001 - "Git/Github"](https://drive.google.com/open?id=1Vk9zf2_Fuu72JEvOLJI0rAIHuepP0wNe4crPyqiEelk)
 

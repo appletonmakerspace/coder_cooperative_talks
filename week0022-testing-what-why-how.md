@@ -1,4 +1,5 @@
-##Week 0022 "Testing - What, Why, How"
+# Week 0022 "Testing - What, Why, How"
+**2015-10-26**
 
 Inspired by new attendee Ben as well as conversations in the [NE Wisconsin Slack Channel](https://newslack.herokuapp.com/) let's talk about software testing.
 

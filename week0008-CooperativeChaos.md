@@ -1,4 +1,5 @@
-##Week 0008 "Cooperative Chaos"
+# Week 0008 "Cooperative Chaos"
+**2015-07-20**
 
 This week, let's give our editors (and search engines) a workout!
 

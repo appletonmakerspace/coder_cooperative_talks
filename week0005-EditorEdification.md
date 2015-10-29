@@ -1,16 +1,19 @@
+# Editor Edification
+**2015-06-29**
+
 **Here are some links to editors, to start the discussion.  The descriptions are mostly marketing from their own websites.**
 
 [Relevant XKCD](https://xkcd.com/378/)
 
-[Sublime Text](http://www.sublimetext.com/) : 
+[Sublime Text](http://www.sublimetext.com/) :
 Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 
-[Notepad++](https://notepad-plus-plus.org/) : 
+[Notepad++](https://notepad-plus-plus.org/) :
 Notepad++: a free source code editor which supports several programming languages running under the MS Windows environment.
 
 [gedit](http://www.gedit.org) : Gnome text editor. A very basic text editor that comes with most modern Linux distros.
 
-[Atom](https://atom.io/) : 
+[Atom](https://atom.io/) :
 A hackable text editor for the 21st Century
 At GitHub, we’re building the text editor we’ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can’t wait to see what you build with it. (32KB)
 
@@ -36,7 +39,7 @@ Light Table is the next generation code editor. Light Table Connects you to your
 
 [Joe's Own Editor](http://joe-editor.sourceforge.net/) Like EMACS + WordStar
 
-[nano](http://www.nano-editor.org/) GNU Nano - GNU nano aims to emulate Pico and perhaps provide extra functionality. 
+[nano](http://www.nano-editor.org/) GNU Nano - GNU nano aims to emulate Pico and perhaps provide extra functionality.
 
 [pico](http://www.cs.colostate.edu/helpdocs/pico.html) Pico is a text editor for Unix and Unix-based computer systems. It is integrated with the Pine e-mail client, which was designed by the Office of Computing and Communications at the University of Washington.
 
