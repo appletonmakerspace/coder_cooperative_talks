@@ -1,3 +1,1 @@
-Interested in participating or helping out? Check out our waffle board: [![Stories in Ready](https://badge.waffle.io/appletonmakerspace/coder_cooperative_talks.png?label=ready&title=Ready)](https://waffle.io/appletonmakerspace/coder_cooperative_talks)
-
-Open an Issue at right (the circle with the exclamation point) in order to be added to this repo.
+Interested in participating or helping out? Let us know by opening an issue here: https://github.com/appletonmakerspace/coder_cooperative_talks/issues
