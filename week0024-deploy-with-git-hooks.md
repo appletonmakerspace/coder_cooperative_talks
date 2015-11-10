@@ -22,6 +22,8 @@ with automated deployments using Git Hooks.
 ### Talk Resources
 Want to learn some before coming out?
 
+* [Git on the Server] (https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server)
+* [How To Set Up a Private Git Server on a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-git-server-on-a-vps)
 * [Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 * [Bash Scripting](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 
