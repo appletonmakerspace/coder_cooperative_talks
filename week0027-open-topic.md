@@ -1,4 +1,4 @@
-# Week 0026 "Open topic"
+# Week 0027 "Open topic"
 **2015-11-30**
 
 Another a la carte week with no predetermined topic.
