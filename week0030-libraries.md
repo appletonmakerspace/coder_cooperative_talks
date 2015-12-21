@@ -5,3 +5,4 @@
 * swagger - REST API documentation http://swagger.io/
 * feedparser - RSS/ATOM parser for Python http://pythonhosted.org/feedparser/
 * retrofit - Type safe Android HTTP client https://github.com/square/retrofit
+* JSON - Many client libraries for parsing JSON http://www.json.org/
