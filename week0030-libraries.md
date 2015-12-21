@@ -6,3 +6,4 @@
 * feedparser - RSS/ATOM parser for Python http://pythonhosted.org/feedparser/
 * retrofit - Type safe Android HTTP client https://github.com/square/retrofit
 * JSON - Many client libraries for parsing JSON http://www.json.org/
+* crossfilter - Crossfilter is a JavaScript library for exploring large multivariate datasets in the browser.  http://square.github.io/crossfilter/
