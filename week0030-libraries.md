@@ -4,4 +4,4 @@
 * docopt - Command-line interface description language http://docopt.org/ https://github.com/docopt
 * swagger - REST API documentation http://swagger.io/
 * feedparser - RSS/ATOM parser for Python http://pythonhosted.org/feedparser/
-* 
+* retrofit - Type safe Android HTTP client https://github.com/square/retrofit
