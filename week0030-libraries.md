@@ -6,5 +6,5 @@
 * feedparser - RSS/ATOM parser for Python http://pythonhosted.org/feedparser/
 * retrofit - Type safe Android HTTP client https://github.com/square/retrofit
 * JSON - Many client libraries for parsing JSON http://www.json.org/
-* crossfilter - Crossfilter is a JavaScript library for exploring large multivariate datasets in the browser. http://square.github.io/crossfilter/
+* crossfilter - JS library for exploring large multivariate datasets in the browser. http://square.github.io/crossfilter/
 * nodatime - A better date/time API for .NET http://nodatime.org/
