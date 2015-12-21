@@ -10,3 +10,4 @@ retrofit|Type safe Android(java) HTTP client|https://github.com/square/retrofit
 JSON|Many client libraries for parsing JSON|http://www.json.org/
 crossfilter|JS library for exploring large multivariate datasets in the browser|http://square.github.io/crossfilter/
 nodatime|A better date/time API for .NET|http://nodatime.org/
+Entity Framework|Entity Framework is Microsoft’s recommended data access technology for new applications|https://msdn.microsoft.com/en-us/data/aa937723
