@@ -14,3 +14,4 @@ Entity Framework|Entity Framework is Microsoft’s recommended data access techn
 Moment.js|Parse, validate, manipulate, and display dates in JavaScript.|http://momentjs.com/
 Mailcatcher|A local mail catcher utility|http://mailcatcher.me/
 Browsersync|Time-saving synchronised browser testing.|https://www.browsersync.io/
+Paper.js|The Swiss Army Knife of Vector Graphics Scripting.|http://paperjs.org/
