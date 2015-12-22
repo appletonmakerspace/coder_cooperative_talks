@@ -13,3 +13,4 @@ nodatime|A better date/time API for .NET|http://nodatime.org/
 Entity Framework|Entity Framework is Microsoft’s recommended data access technology for new applications|https://msdn.microsoft.com/en-us/data/aa937723
 Moment.js|Parse, validate, manipulate, and display dates in JavaScript.|http://momentjs.com/
 Mailcatcher|A local mail catcher utility|http://mailcatcher.me/
+Browsersync|Time-saving synchronised browser testing.|https://www.browsersync.io/
