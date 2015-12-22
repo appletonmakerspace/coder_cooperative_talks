@@ -15,3 +15,4 @@ Moment.js|Parse, validate, manipulate, and display dates in JavaScript.|http://m
 Mailcatcher|A local mail catcher utility|http://mailcatcher.me/
 Browsersync|Time-saving synchronised browser testing.|https://www.browsersync.io/
 Paper.js|The Swiss Army Knife of Vector Graphics Scripting.|http://paperjs.org/
+Parsely|JavaScript form validation library|http://parsleyjs.org/
