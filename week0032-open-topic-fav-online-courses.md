@@ -10,3 +10,5 @@ Here are some online free/non-free courses we've benefit from:
 * http://ocw.mit.edu/
 * http://vim-adventures.com/
 * http://nodeschool.io/#workshopper-list
+* https://see.stanford.edu/Course
+* Companion C++ libraries for Stanford CS106B - Programming Abstractions http://stanford.edu/~stepp/cppdoc/
