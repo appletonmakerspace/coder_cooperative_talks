@@ -8,3 +8,5 @@ Here are some online free/non-free courses we've benefit from:
 * https://www.codeschool.com/courses/try-r
 * http://devtoolschallenger.com/
 * http://ocw.mit.edu/
+* http://vim-adventures.com/
+* http://nodeschool.io/#workshopper-list
