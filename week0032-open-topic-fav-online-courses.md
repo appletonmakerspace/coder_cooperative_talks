@@ -15,3 +15,5 @@ Here are some online free/non-free courses we've benefit from:
 * https://www.codecademy.com/
 * https://www.codeschool.com/ (non-free)
 * https://www.udemy.com/ (non-free)
+* https://www.udacity.com/
+* http://www.freecodecamp.com/
