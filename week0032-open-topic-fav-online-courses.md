@@ -23,3 +23,6 @@ Here are some online free/non-free courses we've benefit from:
 Some learn by playing sites:
 * https://codecombat.com/
 * https://screeps.com/
+
+Book/Tutorial sites:
+* http://learncodethehardway.org/
