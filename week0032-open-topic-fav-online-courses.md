@@ -17,3 +17,4 @@ Here are some online free/non-free courses we've benefit from:
 * https://www.udemy.com/ (non-free)
 * https://www.udacity.com/
 * http://www.freecodecamp.com/
+* https://egghead.io/
