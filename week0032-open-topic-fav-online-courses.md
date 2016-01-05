@@ -14,3 +14,4 @@ Here are some online free/non-free courses we've benefit from:
 * Companion C++ libraries for Stanford CS106B - Programming Abstractions http://stanford.edu/~stepp/cppdoc/
 * https://www.codecademy.com/
 * https://www.codeschool.com/ (non-free)
+* https://www.udemy.com/ (non-free)
