@@ -19,6 +19,9 @@ Here are some online free/non-free courses we've benefit from:
 * http://www.freecodecamp.com/
 * https://egghead.io/
 * https://www.codementor.io/
+* https://upcase.com/join (non-free)
+* https://www.bento.io/grid (freemium)
+* http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;
 
 Some learn by playing sites:
 * https://codecombat.com/
