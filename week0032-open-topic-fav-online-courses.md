@@ -21,7 +21,6 @@ Here are some online free/non-free courses we've benefit from:
 * https://www.codementor.io/
 * https://upcase.com/join (non-free)
 * https://www.bento.io/grid (freemium)
-* http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;
 
 Some learn by playing sites:
 * https://codecombat.com/
@@ -29,3 +28,7 @@ Some learn by playing sites:
 
 Book/Tutorial sites:
 * http://learncodethehardway.org/
+
+Cheatsheets:
+* http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;
+* http://www.cheatography.com/tag/programming/
