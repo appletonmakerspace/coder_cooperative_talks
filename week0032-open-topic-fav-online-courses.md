@@ -21,6 +21,7 @@ Here are some online free/non-free courses we've benefit from:
 * https://www.codementor.io/
 * https://upcase.com/join (non-free)
 * https://www.bento.io/grid (freemium)
+* http://codeselfstudy.com/wiki/Main_Page
 
 Some learn by playing sites:
 * https://codecombat.com/
