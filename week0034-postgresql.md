@@ -83,3 +83,5 @@ UPDATE topics SET topic_descr = 'Intro to PostgreSQL' WHERE topic_id = 2;
 
 After report:
 
+* We had great attendance this week 6 people. 
+* Learned about the NoSQL capabilities withing Postgres itself via this PDF http://info.enterprisedb.com/rs/enterprisedb/images/EDB_White_Paper_Using_the_NoSQL_Features_in_Postgres.pdf
