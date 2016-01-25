@@ -3,7 +3,7 @@
 
 Topic: Hello Heroku
 
-Speaker: Scott Coates!
+Speaker: [Scott Coates](https://twitter.com/scottccoates)!
 
 Let's cover:
 
