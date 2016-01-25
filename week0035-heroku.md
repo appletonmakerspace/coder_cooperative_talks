@@ -3,7 +3,7 @@
 
 Topic: Hello Heroku
 
-##*** Speaker Needed ***
+Speaker: Scott Coates!
 
 Let's cover:
 
